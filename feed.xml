@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flybrianfly</title>
+    <description>Aircraft enthusiast, pilot, engineer...and drone wrangler extraordinaire! 
+</description>
+    <link>http://flybrianfly.com/</link>
+    <atom:link href="http://flybrianfly.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Jun 2015 21:17:49 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 21:17:49 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Deputy Chief Engineer X-48C</title>
+        <description>&lt;h3 id=&quot;february-2012---october-2012&quot;&gt;February 2012 - October 2012&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/x48c.jpg&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In February 2012 I was promoted to Deputy Chief Engineer on the X-48C leading up to its first flight. My two main responsibilities were to ensure the success of the NASA performed research and to take sole responsibility for the range safety of the planned flight research campaign. I interacted with senior NASA, Air Force, and Boeing staff on a daily basis to accomplish these goals. One of my major accomplishments was working with Boeing to change their planned flight profile for the initial phase of flight testing. I faced adversity from Boeing managers to this change; it reduced the wind limits the aircraft could fly within and, in all likelihood, reduced the number of potential flight test days available during a time in which we faced tremendous schedule pressure. However as a direct result of my involvement changing the flight profile, no personnel or range property were put at increased risk during engine out scenarios that occurred regularly during the initial phase of testing.&lt;/p&gt;
+
+&lt;p&gt;During my time as Deputy Chief Engineer, all of the NASA research on X-48C remained on schedule. I gained experience in working with senior leadership, program managers, resource analysts, and schedulers. I developed schedules, budgets, and work breakdown structures. I also gained experience serving on Flight Readiness Review boards, managing a large team, and working with a diverse skill set group to safely accomplish first flight of a highly complex, experimental aircraft.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/resume/x48c</link>
+        <guid isPermaLink="true">http://flybrianfly.com/resume/x48c</guid>
+        
+        
+        <category>resume</category>
+        
+      </item>
+    
+      <item>
+        <title>University of Minnesota</title>
+        <description>&lt;h3 id=&quot;february-2012---present&quot;&gt;February 2012 - Present&lt;/h3&gt;
+
+&lt;p&gt;Since February 2012, I’ve been the Director of the University of Minnesota &lt;a href=&quot;http://www.uav.aem.umn.edu&quot;&gt;Uninhabited Aerial Vehicle (UAV) Laboratories&lt;/a&gt;. I manage and develop a group of about 20 - 30 undergraduate students, graduate students, and staff working on many simultaneous research projects. I conduct strategic planning and manage all aspects of the lab. I’ve gained a great deal of experience writing proposals and developing relationships with other academic institutions; industry; and local, federal, and international government entities.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/umn.jpg&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve generated over $6M in grants and contracts and delivered flight research infrastructures to San Jose State University, NASA, and the German space agency (DLR). I’ve collaborated with the Hungarian Academy of Science (SZTAKI), the MN Department of Transportation, MN Department of Employment and Economic Development, and have conducted joint flight research with DLR. I gained extensive experience negotiating and writing contracts, developing requirements and work breakdown structures, and managing schedules and programs. Recently, I’ve attracted and brought in some excellent new staff hires and built up a much larger, new lab space to continue growing our capabilities.&lt;/p&gt;
+
+&lt;p&gt;In addition to the business development, I’ve led the lab through the development of new open-source flight control systems and research aircraft. I developed lab policies, standard operating procedures, and the lab’s culture. We now conduct flight research with authorization from the FAA and have built the lab into one of the premiere flight research facilities.&lt;/p&gt;
+
+&lt;p&gt;Our current major research programs include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Precision agriculture (PA) research and development in collaboration with entomologists and economists. Images from current UAVs used for PA require a great deal of post-processing before they can be used and then the decision making about treating fields is still carried out in the traditional way. We’re researching and developing systems to optimize the entire process of gathering data and mapping that data to the field, data-driven decision making, and applying field treatments. This should lead to reduced cost to the farmer, greater yields, lower treatment usage, and reduced impact on the environment. Soybean aphids are being used as a case study. I am a Co-PI for this program.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://paaw.net/&quot;&gt;Performance Adaptive Aeroelastic Wing (PAAW)&lt;/a&gt;. This program is researching and developing an aircraft with high aspect ratio, flexible wings with an actively stabilized structure. This research will enable future aircraft that are much lighter, leading to improved fuel consumption. In addition, we will be taking advantage of the flexible wing to continuously morph it to the ideal shape for whatever flight condition the aircraft is in, leading to even greater efficiency compared with current state of the art. I am the Program Manager overseeing the entire program with 6 partners on the team.&lt;/li&gt;
+  &lt;li&gt;GPS denied navigation. One recent program we completed was to research, develop, and demonstrate technologies to enable a small, hand-launched UAV to be able to navigate in a GPS denied environment. Due to the distance of GPS satellites from Earth, its signal is relatively very weak and easy to spoof or jam with potentially catastrophic results. We researched and developed a system that used cell phone signals to continue flying and navigating a small UAV (pictured at the top of the page) and successfully demonstrated the technology in flight test. I was a Co-PI of this program.&lt;/li&gt;
+  &lt;li&gt;Fault detection and reliability. Manned aircraft are very reliable due to their use of triply redundant systems. UAVs are so appealing due to their low size and cost, which is incompatible with the approach of needing those levels of redundancy. We’re developing and flight testing algorithms that use either data or model based techniques to detect that a fault has occurred and reconfigure the navigation filters and flight control laws to work around the failure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition to Directing the UAV Laboratories, I teach an introductory seminar: Model Aircraft Design, Flight Test, and Analysis. Students in my introductory course learn basics of flight mechanics and aircraft performance before designing and flight testing a small UAV. Students analyze the flight data and report on the results. I also co-teach a graduate level course: Design-to-Flight: Small Uninhabited Aerial Vehicles. Students in this course learn about systems engineering, flight dynamics, filtering and estimation, and flight controls. Students then design navigation filters and flight control laws before conducting flight tests and data analysis.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/resume/umn</link>
+        <guid isPermaLink="true">http://flybrianfly.com/resume/umn</guid>
+        
+        
+        <category>resume</category>
+        
+      </item>
+    
+      <item>
+        <title>Embry-Riddle Aeronautical University</title>
+        <description>&lt;h3 id=&quot;march-2003---august-2003&quot;&gt;March 2003 - August 2003&lt;/h3&gt;
+
+&lt;p&gt;One week after passing my private pilot checkride, I was offered a job as a Flight Line Specialist at the United States Air Force Academy airfield. The position was with Embry-Riddle Aeronautical University to train cadets.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/usafa.png&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was in charge of the flight line and everything that happened on it. During evenings, nights, and weekends I worked with fuelers, aircraft maintainers, and dispatch to feed and shelter a fleet of 28 Diamond DA-20 aircraft. This meant coordinating fueling with planned sorties, getting aircraft in and out of maintenance quickly, putting the birds in their hangers at night, and performing some small maintenance work to make sure the aircraft were always ready for their next flight - washing airplanes, conducting pre-flights, changing oil, and airing tires.&lt;/p&gt;
+
+&lt;p&gt;It was a fantastic job! I got to work around airplanes all day and was able to rent a T-41C from the Aero Club to build flight time; the picture of the USAFA chapel and stadium was taken from the T-41C while on final to the USAFA airfield.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/resume/usafa</link>
+        <guid isPermaLink="true">http://flybrianfly.com/resume/usafa</guid>
+        
+        
+        <category>resume</category>
+        
+      </item>
+    
+      <item>
+        <title>Colorado Space Grant Consortium</title>
+        <description>&lt;h3 id=&quot;august-2003---june-2005&quot;&gt;August 2003 - June 2005&lt;/h3&gt;
+
+&lt;p&gt;Soon after arriving at the University of Colorado at Boulder, I began volunteering with the Colorado Space Grant Consortium (COSGC). For a semester, I volunteered on the DINO nanosatellite designing algorithms to determine cloud heights from space.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cosgc.jpg&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Beginning in January 2004, I was hired as a paid student and promoted to managing the High Altitude Balloon Program at COSGC. I managed a team of about 15 students - we designed, built, and validated two 1.5 kg high altitude balloon payloads to validate technologies to be flown on DINO. In addition, I advised other Universities and teams on the use of high altitude balloon payloads to validate low-cost nanosatellite technology, both at COSGC conferences and as an invited speaker at a conference in Las Cruces, NM.&lt;/p&gt;
+
+&lt;p&gt;Both of our payloads performed very well, not only demonstrating technologies, but also gathering data to be used in updating models of the DINO subsystems. The photo above was taken from our payload and used to validate cloud height algorithms for DINO. I gained experience leading teams; designing and building high altitude balloon payloads; and supporting many high altitude balloon launches and recoveries.&lt;/p&gt;
+
+&lt;p&gt;Following my high altitude balloon program management, I moved to be the Mission Director for the Three Corner Satellite (3CS). This satellite was integrated at and planned to be operated from COSGC. I organized mission operations teams and helped ensure everyone got through training and was ready for operations. Unfortunately, 3CS was lost during ascent on the first Delta IV Heavy launch.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/resume/cosgc</link>
+        <guid isPermaLink="true">http://flybrianfly.com/resume/cosgc</guid>
+        
+        
+        <category>resume</category>
+        
+      </item>
+    
+      <item>
+        <title>AFRC Cooperative Education Student</title>
+        <description>&lt;h3 id=&quot;august-2005---june-2008&quot;&gt;August 2005 - June 2008&lt;/h3&gt;
+&lt;p&gt;I completed two tours as a Cooperative Education Student at the NASA Armstrong Flight Research Center (AFRC). The first was from August 2005 through December 2005 in the Flight Systems Branch developing components for the &lt;a href=&quot;http://www.nasa.gov/centers/dryden/multimedia/imagegallery/AARD/ED05-0223-07.html#.VLFPOXQ9aR8&quot;&gt;F-18 845 Autonomous Aerial Refueling Demonstration (AARD) Project&lt;/a&gt;. The second was from June through August 2006 in the Flight Controls and Dynamics Branch, where I designed, developed, and validated control laws and simulations for the Autonomous Soaring Project. I also conducted inertia swings, control surface calibrations, and supported flight tests of the aircraft. Following graduation from the University of Colorado at Boulder, I was hired full-time into the Flight Controls and Dynamics Branch.&lt;/p&gt;
+
+&lt;h4 id=&quot;flight-systems-august---december-2005&quot;&gt;Flight Systems, August - December 2005&lt;/h4&gt;
+&lt;p&gt;The &lt;a href=&quot;http://www.nasa.gov/centers/dryden/multimedia/imagegallery/AARD/ED05-0223-07.html#.VLFPOXQ9aR8&quot;&gt;F-18 845 Autonomous Aerial Refueling Demonstration (AARD) Project&lt;/a&gt; was a Defense Advanced Research Projects Agency (DARPA) project to conduct refueling autonomously with probe and drogue aircraft; a necessary step to enable future Unmanned Aerial Vehicles (UAVs). Sierra Nevada Corporation was the prime contractor and developer; however NASA AFRC was the Responsible Test Organization (RTO) with testing to be conducted on NASA F-18 845. Systems development was needed to enable F-18 845 to conduct the tests and NASA was responsible for designing and making these changes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pvi.png&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My primary responsibility in the Flight Systems Branch was to develop the Pilot Vehicle Interface (PVI) software, shown installed in the F-18, which enabled the test pilots to operate the SNC developed system, switch the aircraft into autonomous refueling modes, monitor its progress, and take control back if necessary. I successfully completed this task and gained experience in: developing and writing low-level safety-critical software; working with many groups including pilots and engineers from NASA and SNC to collect requirements and feedback on the system; and going through the formal validation, hazard and risk analysis, and safety review process. Due to my work, the Pilot Vehicle Interface was completed on schedule and used for the flight tests.&lt;/p&gt;
+
+&lt;p&gt;In addition, I researched and designed modifications to the F-18 845 wiring to enable the SNC system to control the throttles of the aircraft. I formally drafted these modifications, went through the safety review process, and sent the work to the shops. This modification was a necessary component in enabling SNC’s system to autonomously refuel.&lt;/p&gt;
+
+&lt;p&gt;The Autonomous Aerial Refueling Demonstration Project was successfully completed in 2006 with demonstrations of several fully autonomous engagements and refueling sequences. Further tests in early 2007 demonstrated the system successfully working while in turns and turbulence.&lt;/p&gt;
+
+&lt;h4 id=&quot;flight-controls-and-dynamics-june---august-2006&quot;&gt;Flight Controls and Dynamics, June - August 2006&lt;/h4&gt;
+&lt;p&gt;The Autonomous Soaring Project was an internal project to research, develop, and demonstrate a large RC aircraft, called Cloud Swift, that could autonomously detect thermals and soar in them to extend mission duration and range. Thermal detection and soaring over one location was successfully demonstrated in 2005, when I joined the project in 2006, our goal was to use thermals along with dynamic soaring techniques to move quickly over a route and extend the aircraft’s range.&lt;/p&gt;
+
+&lt;p&gt;I researched cross country and dynamic soaring and designed and developed the flight software to enable the Cloud Swift to quickly fly through a course autonomously using only thermals to keep it aloft in a variety of atmospheric and wind conditions. I worked with other engineers to validate the software in simulation and went through the peer review and flight safety process. I gained experience in conducting independent research; flight control law design, gain and phase margins, and validation; aircraft dynamics and simulation; and the flight review process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/moi.png&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to my control law development work, I supported development and flight testing of the Cloud Swift platform. One of my major tasks was to develop a better model of the aircraft’s mass properties. I completed this by designing an experimental test (bifilar inertia swings), building the necessary support equipment, gathering and analyzing the data. Left, is a picture of one of the inertia swing tests. I gained a great deal of experience in researching theory and using that theory to develop and execute experimental tests.&lt;/p&gt;
+
+&lt;p&gt;Finally, I supported development and validation of the Cloud Swift inner-loop control laws. I checked their gain and phase margins, operated the ground control station during flight tests, and analyzed the flight data. I also assisted in a flight accident investigation of another aircraft that was using a similar autopilot and ground control station as the Cloud Swift.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cswift1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Cloud Swift flight test team setup on the lakebed.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cswift3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Operating the Cloud Swift ground station.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cswift2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Cloud Swift aircraft in flight.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/resume/coop</link>
+        <guid isPermaLink="true">http://flybrianfly.com/resume/coop</guid>
+        
+        
+        <category>resume</category>
+        
+      </item>
+    
+      <item>
+        <title>The Boeing Company</title>
+        <description>&lt;h3 id=&quot;june-2005---august-2005&quot;&gt;June 2005 - August 2005&lt;/h3&gt;
+
+&lt;p&gt;During the summer of 2005 I worked on 737 certification at The Boeing Company in Renton, WA. At the time, certification was done by comparing customer desired configurations to previously certified configurations with many binders of hard copy information. I created a searchable, electronic database to speed up the certification process. Additionally, I worked on the initial design studies for the P-8, previously called the 737 Multimission Maritime Aircraft (MMA).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/resume/boeing</link>
+        <guid isPermaLink="true">http://flybrianfly.com/resume/boeing</guid>
+        
+        
+        <category>resume</category>
+        
+      </item>
+    
+      <item>
+        <title>AFRC Research Engineer, Flight Controls and Dynamics</title>
+        <description>&lt;h3 id=&quot;june-2008---february-2012&quot;&gt;June 2008 - February 2012&lt;/h3&gt;
+&lt;p&gt;After graduating from the University of Colorado at Boulder in 2008, I was hired as a research engineer in the Flight Controls and Dynamics Branch at the NASA Armstrong Flight Research Center (AFRC).&lt;/p&gt;
+
+&lt;p&gt;As part of a 6 month Accelerated Training Program (ATP), my initial task was to develop a Flight Test Maneuver Autopilot and Optimal Control Allocation for the X-48B. I also support flight tests in the control room as the Real-Time Stability Monitor. I gained experience in conducting research, flight test techniques and maneuver design, optimal control allocation, and control room staffing. I successfully completed my tasks and my ATP training with the end result being a presentation to senior management.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/x48.jpg&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Following my ATP, I rotated for a tour in the Aerodynamics Branch. I led a team researching system identification and parameter estimation techniques for vehicles with many coplanar, multi-objective control surfaces. We conducted flight research on the X-48B aircraft. As part of this effort, we needed very accurate knowledge of the aircraft’s mass properties and control system, so I oversaw teams that conducted highly accurate moment of inertia swings and control surface sweeps. I successfully led the flight test campaign and data analysis on the X-48B. This included designing flight test maneuvers, working with Boeing to develop flight software and flight test cards, and working with the operations team and maintainers to ensure we met our schedule. I led the team through the flight safety review process and was the lead in the control room. We completed 14 test flights consisting of over 450 test points and set many records on the aircraft for flight time and operational tempo. The research resulted in many publications, novel flight test techniques, and an expanded knowledge in the community of how to perform parameter estimation accurately on these newer vehicles. I received an On the Spot award for leading the research project and the flight test campaign.&lt;/p&gt;
+
+&lt;p&gt;Next, I led a team to conduct research into feedback structural information into an optimal control allocation control law to keep a transport aircraft below its load limits. This research would enable aircraft that are significantly lighter and more fuel efficient. Our team established the foundation for research into this field, active control of aircraft structures, and developed a control law that worked well in simulation. Later, after I left NASA, this research was successfully flight tested on NASA F-18 853 and is the basis for some current research programs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/x56.jpg&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I moved into a Technical Leadership position as the head of Subsonic Fixed Wing Flight Controls and Dynamics at AFRC. In this capacity, I conducted strategic planning into what our research portfolio should look like and managed the project leads. One significant contribution I made was to consolidate our research portfolio to focus on active control of flexible aircraft. As part of this process I advocated for and negotiated the partnership between NASA, the Air Force Research Labs (AFRL), and Lockheed Skunkworks on the X-56A aircraft.&lt;/p&gt;
+
+&lt;p&gt;Following 18 months leading Subsonic Fixed Wing Flight Controls and Dynamics, I moved back to X-48B where I led research in a novel flight test technique and data analysis method to quickly calibrate aircraft air data systems. I developed the method, conducted simulation studies, and published the results. This research was flight tested by NASA Langley Research Center and has impacted the flight test community by significantly reduces the cost and time to conduct flight research.&lt;/p&gt;
+
+&lt;p&gt;Next, I recognized an opportunity to significantly reduce fuel consumption of aircraft by making small adjustments to throttle settings in cruise to reduce aerodynamic trim drag. I developed optimal control algorithms for this technique and led a team to take those algorithms and develop, implement, validate, and test this flight control software on X-48B. I worked with Boeing engineers and managers to develop requirements, work breakdown structures, and schedules. We developed and validated the software in high fidelity simulations and I shepherded the project through the flight approval process. We worked with the Boeing operations team and pilots to develop flight test maneuvers and a flight test plan. Although I left NASA prior to flight testing the control laws, in simulation my algorithms showed a significant fuel consumption improvement (3-5%); this research was published and is an exciting design tool available to aircraft engineers.&lt;/p&gt;
+
+&lt;h4 id=&quot;student-programs&quot;&gt;Student Programs&lt;/h4&gt;
+&lt;p&gt;In late 2008, I recognized a need in the NASA AFRC internship programs for group research projects. At the time, most of the Center’s interns were high school students assigned to individual mentors. Given the relatively small size of the Center’s engineering staff and the large number of summer interns, the cost on the Center was high and the interns mostly had poor experiences.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sp1.jpg&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I developed the concept of having a low-cost, small Unmanned Aerial Vehicle (UAV) that the interns could develop and flight test during summer under the guidance of a few engineers. This would be an exciting and realistic experience for the students, reduce cost to the Center (due to reduced number of staff needed to support the interns), and provide a low-cost platform for early stage research.&lt;/p&gt;
+
+&lt;p&gt;I presented this concept to all of the Research Engineering Directorate Branch Chiefs and then to the Center Executive Leadership Team. I received approval for a small-scale test of the concept and a modest budget. I assembled a team and we ran the program successfully in the summer of 2009.&lt;/p&gt;
+
+&lt;p&gt;We received much more support for running the program in the summer of 2010 and the students developed a very capable low-cost UAV providing an initial model by conducting and analyzing inertia swings and flight data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sp2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Students briefing prior to a flight test&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sp3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Students operating a ground control station&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Management of the program was passed on to other staff starting in the summer of 2011. The platform continued to be developed and improved, contributing to research such as &lt;a href=&quot;http://www.nasa.gov/centers/armstrong/Features/Auto-GCAS_Installed_in_USAF_F-16s.html#.VLGNx3Q9aR8&quot;&gt;Automatic Ground Collision Avoidance Systems (Auto-GCAS)&lt;/a&gt; and the &lt;a href=&quot;http://www.nasa.gov/centers/armstrong/Features/TGALS_first_flight.html#.VLGPEXQ9aR8&quot;&gt;Towed Glider Air-Launch System (TGLAS)&lt;/a&gt;. Derivatives of the program in 2012 through 2014 included college students flight testing an aircraft with a novel lift distribution, &lt;a href=&quot;http://www.nasa.gov/centers/dryden/Features/AMA_Expo.html#.VLGRYHQ9aR8&quot;&gt;PRANDTL-D&lt;/a&gt;, which may &lt;a href=&quot;https://www.youtube.com/watch?v=223OmaQ9uLY&quot;&gt;significantly improve fuel consumption of future aircraft&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sp4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was awarded an On the Spot Award “For excellent initiative and creative approach in advocating, developing, and implementing a unique and rewarding program.”&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/resume/afrc</link>
+        <guid isPermaLink="true">http://flybrianfly.com/resume/afrc</guid>
+        
+        
+        <category>resume</category>
+        
+      </item>
+    
+      <item>
+        <title>Examples using the lift equation</title>
+        <description>&lt;p&gt;Brian R Taylor&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3824/9615082251_72a747c4f3_n.jpg&quot; width=&quot;320&quot; height=&quot;213&quot; alt=&quot;DSC_5802&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the &lt;a href=&quot;http://www.uav.aem.umn.edu/&quot;&gt;UAV Laboratories&lt;/a&gt; aircraft, named Thor,
+has the following characteristics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wing area: 3.36 &lt;script type=&quot;math/tex&quot;&gt;ft^2&lt;/script&gt;&lt;/li&gt;
+  &lt;li&gt;Weight: 5.2 lbs&lt;/li&gt;
+  &lt;li&gt;Symmetric airfoil with a lift curve slope of 0.1097 per degree&lt;/li&gt;
+  &lt;li&gt;Drag coefficient: 0.04&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;a) How much lift is needed for Thor to maintain level flight?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Weight, lbs&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;W&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;quot;In steady level flight, the amount of lift needed is equal to the weight&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;L&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;W&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Thor needs &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%f&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; lbs of lift to maintain level flight&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;L&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Thor&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;needs&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.200000&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lbs&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lift&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;maintain&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;level&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;flight&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;b) If Thor is flying at Anoka County RC Field (elevation 1,000 ft above sea
+level, air density 2.3081E-3 &lt;script type=&quot;math/tex&quot;&gt;slug/ft^3&lt;/script&gt;) and a speed of 56 ft/s, what is Thor’s
+angle of attack?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We can recall that the equation for lift is:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;L = W = 1/2 \rho V^2SC_L&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;C_L = C_{L0} + C_{L\alpha} \alpha&lt;/script&gt;
+
+&lt;p&gt;Because the airfoil is symmetric, &lt;script type=&quot;math/tex&quot;&gt;C_{L0} = 0&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;So:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\alpha = \dfrac{2W}{\rho V^2SC_{L\alpha}}&lt;/script&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Air density, slug/ft^3&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;2.3081&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;quot;Velocity, ft/s&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;56&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;quot;Wing area, ft^2&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;3.36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;quot;Lift curve slope, per degree&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;CLa&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.1097&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;quot;Solving for alpha, degrees&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;W&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CLa&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Angle of attack is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%f&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; degrees&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Angle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;attack&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;3.898134&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;degrees&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;c) For the problem in part B, what is Thor’s drag?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We can recall that the equation for drag is:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;D = 1/2 \rho V^2SC_D&lt;/script&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Drag coefficient&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;CD&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.04&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;quot;Solving for drag, lbs&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;D&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CD&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Drag is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%f&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; lbs&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;D&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Drag&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.486407&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lbs&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;d) For the problem in part C, what is Thor’s thrust?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We can recall that thrust is equal to drag in steady level flight.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Solving for thrust, lbs&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;T&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Thrust is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%f&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; lbs&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Thrust&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.486407&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lbs&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;e) Assume Thor’s maximum angle of attack is 10 degrees, at what speed will
+Thor stall?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Start with the lift equation again:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;L = W = 1/2 \rho V^2SC_L&lt;/script&gt;
+
+&lt;p&gt;And solve for velocity:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;V = \sqrt{\dfrac{2W}{\rho SC_L}}&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;C_L = C_{L0} + C_{L\alpha} \alpha&lt;/script&gt;
+
+&lt;p&gt;Because the airfoil is symmetric, &lt;script type=&quot;math/tex&quot;&gt;C_{L0} = 0&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;So:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;V = \sqrt{\dfrac{2W}{\rho SC_{L\alpha} \alpha}}&lt;/script&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Angle of attack, degrees&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;quot;Solving for velocity, fps&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sqrt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;W&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CLa&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Stall speed is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%f&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; feet per second&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Stall&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;34.963621&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;feet&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;per&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;second&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;f) What is the coefficient of lift in part E?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;C_L = C_{L0} + C_{L\alpha} \alpha&lt;/script&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Solving for lift coefficient, ND&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;CL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CLa&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Lift coefficient is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%f&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CL&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Lift&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;coefficient&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;1.097000&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;g) If Thor’s wing area remains unchanged with the deployment of flaps and Thor
+is landing at Anoka County RC Field (elevation 1,000 ft above sea level, air
+density 2.3081E-3 &lt;script type=&quot;math/tex&quot;&gt;slug/ft^3&lt;/script&gt;) with a stall speed of 30 ft/s, what is Thor’s
+lift coefficient?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;L = W = 1/2 \rho V^2SC_L&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;C_L = \dfrac{2W}{\rho V^2 S}&lt;/script&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Velocity, ft/s&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;s&quot;&gt;&amp;quot;Solving for lift coefficient, ND&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;CL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;W&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Lift coefficient is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%f&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CL&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Lift&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;coefficient&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;1.490037&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/aero/liftexample</link>
+        <guid isPermaLink="true">http://flybrianfly.com/aero/liftexample</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>University of Colorado</title>
+        <description>&lt;p&gt;At the University of Colorado at Boulder I graduated Cum Laude in Aerospace Engineering in May 2008. My focus was on aircraft design and validation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sharc1.png&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a capstone project, I was the Systems Engineer for a team of nine to design, build, flight test, and validate a large UAV for the Sierra Nevada Corporation (SNC). The requirements were to lift a 15 lb payload in the nose of the aircraft with a clear view of the ground, and to cruise 90 knots at an altitude of 10,000 ft for 45 minutes. The entire aircraft had to fit within a 7 ft by 7 ft box, weigh less than 55 lbs, and be operated by two ground crew members.&lt;/p&gt;
+
+&lt;p&gt;We designed and constructed the aircraft seen above. We used the Roskam design process and during the fall semester took the aircraft through a Systems Requirements Review, Preliminary Design Review, and Critical Design Review as well as conducting preliminary tests on some critical components of the aircraft; in our case the landing gear and landing gear mount. Over winter break, wind tunnel testing of the design was conducted in the University of Kansas wind tunnel and a canard was added to fix a trim problem that was discovered.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sharc2.png&quot; style=&quot;float:left;padding-right:15px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the spring semester, we manufactured the aircraft using molds that we machined and a wet layup with vacuum bag technique. The systems integration was complicated, but progressed smoothly, other than the propeller. We had subcontracted the propeller design to a firm in Australia that contracted a firm in China for manufacturing and Chinese New Year caused a short delay. We were able to take the aircraft through low and high speed taxi testing before the end of the spring semester.&lt;/p&gt;
+
+&lt;p&gt;From our capstone project, I gained experience in designing and building a large UAV from the ground up. I also gained experience in advanced composite techniques and conducting Systems Engineering with a large team. We were required to prepare several presentations, reports, and professional component, sub-assembly, and assembly drawings. This provided a lot of experience in documentation, drafting, and configuration control.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/resume/cu</link>
+        <guid isPermaLink="true">http://flybrianfly.com/resume/cu</guid>
+        
+        
+        <category>resume</category>
+        
+      </item>
+    
+  </channel>
+</rss>
