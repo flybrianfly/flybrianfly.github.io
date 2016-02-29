@@ -6,9 +6,9 @@
 </description>
     <link>http://flybrianfly.com/</link>
     <atom:link href="http://flybrianfly.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Feb 2016 21:48:15 -0600</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 21:48:15 -0600</lastBuildDate>
-    <generator>Jekyll v3.0.0</generator>
+    <pubDate>Sun, 28 Feb 2016 22:33:08 -0600</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2016 22:33:08 -0600</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Montana - Reflections</title>
@@ -90,7 +90,7 @@
 &lt;p&gt;Our current major research programs include:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Precision agriculture (PA) research and development in collaboration with entomologists and economists. Images from current UAVs used for PA require a great deal of post-processing before they can be used and then the decision making about treating fields is still carried out in the traditional way. We’re researching and developing systems to optimize the entire process of gathering data and mapping that data to the field, data-driven decision making, and applying field treatments. This should lead to reduced cost to the farmer, greater yields, lower treatment usage, and reduced impact on the environment. Soybean aphids are being used as a case study. I am a Co-PI for this program.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://aeroag.umn.edu/&quot;&gt;Precision agriculture (PA)&lt;/a&gt; research and development in collaboration with entomologists and economists. Images from current UAVs used for PA require a great deal of post-processing before they can be used and then the decision making about treating fields is still carried out in the traditional way. We’re researching and developing systems to optimize the entire process of gathering data and mapping that data to the field, data-driven decision making, and applying field treatments. This should lead to reduced cost to the farmer, greater yields, lower treatment usage, and reduced impact on the environment. Soybean aphids are being used as a case study. I am a Co-PI for this program.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://paaw.net/&quot;&gt;Performance Adaptive Aeroelastic Wing (PAAW)&lt;/a&gt;. This program is researching and developing an aircraft with high aspect ratio, flexible wings with an actively stabilized structure. This research will enable future aircraft that are much lighter, leading to improved fuel consumption. In addition, we will be taking advantage of the flexible wing to continuously morph it to the ideal shape for whatever flight condition the aircraft is in, leading to even greater efficiency compared with current state of the art. I am the Program Manager overseeing the entire program with 6 partners on the team.&lt;/li&gt;
   &lt;li&gt;GPS denied navigation. One recent program we completed was to research, develop, and demonstrate technologies to enable a small, hand-launched UAV to be able to navigate in a GPS denied environment. Due to the distance of GPS satellites from Earth, its signal is relatively very weak and easy to spoof or jam with potentially catastrophic results. We researched and developed a system that used cell phone signals to continue flying and navigating a small UAV (pictured at the top of the page) and successfully demonstrated the technology in flight test. I was a Co-PI of this program.&lt;/li&gt;
   &lt;li&gt;Fault detection and reliability. Manned aircraft are very reliable due to their use of triply redundant systems. UAVs are so appealing due to their low size and cost, which is incompatible with the approach of needing those levels of redundancy. We’re developing and flight testing algorithms that use either data or model based techniques to detect that a fault has occurred and reconfigure the navigation filters and flight control laws to work around the failure.&lt;/li&gt;
@@ -202,6 +202,21 @@
       </item>
     
       <item>
+        <title>Bolder Flight Systems</title>
+        <description>&lt;h3 id=&quot;january-2016---present&quot;&gt;January 2016 - Present&lt;/h3&gt;
+
+&lt;p&gt;I’m the Co-Founder and CEO for &lt;a href=&quot;http://bolderflight.com/&quot;&gt;Bolder Flight Systems&lt;/a&gt;, a spinoff of the University of Minnesota UAS Research Labs. We are building on the ground breaking research conducted at the University to develop high quality sensing, flight control, and navigation systems, along with fully integrated aircraft, for makers, researchers and businesses. We provide the best total solutions for our customers enabling them to meet their performance needs.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://flybrianfly.com/resume/bolderflight</link>
+        <guid isPermaLink="true">http://flybrianfly.com/resume/bolderflight</guid>
+        
+        
+        <category>resume</category>
+        
+      </item>
+    
+      <item>
         <title>The Boeing Company</title>
         <description>&lt;h3 id=&quot;june-2005---august-2005&quot;&gt;June 2005 - August 2005&lt;/h3&gt;
 
@@ -269,149 +284,6 @@
         
         
         <category>resume</category>
-        
-      </item>
-    
-      <item>
-        <title>Examples using the lift equation</title>
-        <description>&lt;p&gt;Brian R Taylor&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3824/9615082251_72a747c4f3_n.jpg&quot; width=&quot;320&quot; height=&quot;213&quot; alt=&quot;DSC_5802&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the &lt;a href=&quot;http://www.uav.aem.umn.edu/&quot;&gt;UAV Laboratories&lt;/a&gt; aircraft, named Thor,
-has the following characteristics:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Wing area: 3.36 &lt;script type=&quot;math/tex&quot;&gt;ft^2&lt;/script&gt;&lt;/li&gt;
-  &lt;li&gt;Weight: 5.2 lbs&lt;/li&gt;
-  &lt;li&gt;Symmetric airfoil with a lift curve slope of 0.1097 per degree&lt;/li&gt;
-  &lt;li&gt;Drag coefficient: 0.04&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;a) How much lift is needed for Thor to maintain level flight?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&quot;Weight, lbs&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;W&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&quot;In steady level flight, the amount of lift needed is equal to the weight&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;L&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;W&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Thor needs &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;f lbs of lift to maintain level flight&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;L&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;Thor&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;needs&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.200000&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lbs&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lift&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;maintain&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;level&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;flight&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;b) If Thor is flying at Anoka County RC Field (elevation 1,000 ft above sea
-level, air density 2.3081E-3 &lt;script type=&quot;math/tex&quot;&gt;slug/ft^3&lt;/script&gt;) and a speed of 56 ft/s, what is Thor’s
-angle of attack?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We can recall that the equation for lift is:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;L = W = 1/2 \rho V^2SC_L&lt;/script&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;C_L = C_{L0} + C_{L\alpha} \alpha&lt;/script&gt;
-
-&lt;p&gt;Because the airfoil is symmetric, &lt;script type=&quot;math/tex&quot;&gt;C_{L0} = 0&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;So:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\alpha = \dfrac{2W}{\rho V^2SC_{L\alpha}}&lt;/script&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&quot;Air density, slug/ft^3&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;2.3081&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&quot;Velocity, ft/s&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;56&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&quot;Wing area, ft^2&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;3.36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&quot;Lift curve slope, per degree&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;CLa&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.1097&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&quot;Solving for alpha, degrees&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;W&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CLa&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Angle of attack is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;f degrees&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;Angle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;attack&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;3.898134&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;degrees&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;c) For the problem in part B, what is Thor’s drag?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We can recall that the equation for drag is:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;D = 1/2 \rho V^2SC_D&lt;/script&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&quot;Drag coefficient&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;CD&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.04&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&quot;Solving for drag, lbs&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;D&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CD&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Drag is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;f lbs&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;D&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;Drag&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.486407&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lbs&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;d) For the problem in part C, what is Thor’s thrust?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We can recall that thrust is equal to drag in steady level flight.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&quot;Solving for thrust, lbs&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;T&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Thrust is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;f lbs&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;Thrust&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.486407&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lbs&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;e) Assume Thor’s maximum angle of attack is 10 degrees, at what speed will
-Thor stall?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Start with the lift equation again:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;L = W = 1/2 \rho V^2SC_L&lt;/script&gt;
-
-&lt;p&gt;And solve for velocity:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;V = \sqrt{\dfrac{2W}{\rho SC_L}}&lt;/script&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;C_L = C_{L0} + C_{L\alpha} \alpha&lt;/script&gt;
-
-&lt;p&gt;Because the airfoil is symmetric, &lt;script type=&quot;math/tex&quot;&gt;C_{L0} = 0&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;So:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;V = \sqrt{\dfrac{2W}{\rho SC_{L\alpha} \alpha}}&lt;/script&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&quot;Angle of attack, degrees&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&quot;Solving for velocity, fps&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sqrt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;W&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CLa&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Stall speed is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;f feet per second&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;Stall&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;34.963621&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;feet&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;per&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;second&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;f) What is the coefficient of lift in part E?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;C_L = C_{L0} + C_{L\alpha} \alpha&lt;/script&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&quot;Solving for lift coefficient, ND&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;CL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CLa&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Lift coefficient is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;f&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CL&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;Lift&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;coefficient&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;1.097000&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;g) If Thor’s wing area remains unchanged with the deployment of flaps and Thor
-is landing at Anoka County RC Field (elevation 1,000 ft above sea level, air
-density 2.3081E-3 &lt;script type=&quot;math/tex&quot;&gt;slug/ft^3&lt;/script&gt;) with a stall speed of 30 ft/s, what is Thor’s
-lift coefficient?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;L = W = 1/2 \rho V^2SC_L&lt;/script&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;C_L = \dfrac{2W}{\rho V^2 S}&lt;/script&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;s&quot;&gt;&quot;Velocity, ft/s&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;&quot;Solving for lift coefficient, ND&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;CL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;W&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ro&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;V&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Lift coefficient is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;f&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CL&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;Lift&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;coefficient&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;1.490037&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-</description>
-        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
-        <link>http://flybrianfly.com/aero/liftexample</link>
-        <guid isPermaLink="true">http://flybrianfly.com/aero/liftexample</guid>
-        
         
       </item>
     
